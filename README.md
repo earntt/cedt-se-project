@@ -26,7 +26,7 @@ The project is a web application designed to solve the problem of managing onlin
 ---
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: JavaScript, TypeScript, CSS (Tailwind, React, Next.js)
 - **Backend**: JavaScript, Node.js
 - **Database**: MongoDB
 - **Testing**: Jest, Cypress
@@ -35,7 +35,7 @@ The project is a web application designed to solve the problem of managing onlin
 
 ## Setup
 ### 1. Docker
-1. Install [docker](https://www.docker.com/products/docker-desktop/) and [Docker Compose](https://docs.docker.com/compose/install/) if you don't have them already.
+1. Install [docker](https://www.docker.com/products/docker-desktop/) and [Docker Compose](https://docs.docker.com/compose/install/) if you don't have them yet.
 2. Run docker compose (-d is for detach)
     ```sh
       docker compose up
@@ -82,4 +82,3 @@ The project is a web application designed to solve the problem of managing onlin
               npm start
             ```
         2. Open your browser and visit http://localhost:5000 and `document on`: http://localhost:5000/api-docs
-
