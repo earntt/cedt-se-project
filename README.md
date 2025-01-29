@@ -27,7 +27,7 @@ The project is a web application designed to solve the problem of managing onlin
 
 ## Technologies Used
 - **Frontend**: JavaScript, TypeScript, CSS (Tailwind, React, Next.js)
-- **Backend**: JavaScript, Node.js
+- **Backend**: JavaScript, Node.js, Express.js
 - **Database**: MongoDB
 - **Testing**: Jest, Cypress
 
@@ -81,4 +81,4 @@ The project is a web application designed to solve the problem of managing onlin
             ```sh
               npm start
             ```
-        2. Open your browser and visit http://localhost:5000 and `document on`: http://localhost:5000/api-docs
+        2. Open your browser and visit http://localhost:5000 and document on http://localhost:5000/api-docs
